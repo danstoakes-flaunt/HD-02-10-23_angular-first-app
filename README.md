@@ -8,4 +8,4 @@ The db.json file simulates an API endpoint that feeds property information into 
 
 ## How to run
 
-Clone the repository and run `npm install`. Once all the packages are installed, run `npm install -g json-server` to install the required package for API simulation. To get the API to feed data into the application, run `json-server --watch db.json`. Once the simulated API endpoint is working, run `ng serve` and the application should be viewable on [http://localhost:4200/](localhost:4200). 
+Clone the repository and run `npm install`. Once all the packages are installed, run `npm install -g json-server` to install the required package for API simulation. To get the API to feed data into the application, run `json-server --watch db.json`. Once the simulated API endpoint is working, run `ng serve` and the application should be viewable on [localhost:4200](http://localhost:4200/). 
